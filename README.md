@@ -1,4 +1,4 @@
-# Hi👋, I'm Derek Cantillo - Software Developer
+# Hi👋, I'm Derek - Software Developer
 ___
 
 ## ❗ About me
