@@ -19,4 +19,3 @@ ___
 
 ## 📲  Social media
 - [Linkedin](https://www.linkedin.com/in/derek-cantillo-34bb81213/)
-- [Web Portfolio](https://derekcantillo.github.io/Portfolio-app/)
